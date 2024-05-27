@@ -97,7 +97,8 @@ Tables with average shipping cost being 69.95k
 
 
 #### Analysis of the average profit of all African countries in 2014
-! [] ()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Avearge%20profit%20of%20African%20countries.png)
+
 The country with the highest average profit is South Africa with an average profit of 9,363.24k
 
 The country with the least average profit is Nigeria with an average profit of -23,285.19k
