@@ -89,6 +89,7 @@ Hp copy machine color 2.86k
 Samsung smart phone 2.67k
 
 #### Analysis of the 3 subcategories with the highest average shipping cost in the United States.
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Avearge%20profit%20of%20African%20countries.png)
 
 The three sub categories include:
 Copiers with average shipping cost being 165.28k
@@ -97,14 +98,14 @@ Tables with average shipping cost being 69.95k
 
 
 #### Analysis of the average profit of all African countries in 2014
-![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Avearge%20profit%20of%20African%20countries.png)
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Nigeria's%20poor%20performance.png) 
+
 
 The country with the highest average profit is South Africa with an average profit of 9,363.24k
 
 The country with the least average profit is Nigeria with an average profit of -23,285.19k
 
 #### Analysis of factors which might be responsible for Nigeria’s poor performance
-![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Nigeria's%20poor%20performance.png) 
 
 Nigeria had an average shipping cost of 7k and an average discount of 1%
 
