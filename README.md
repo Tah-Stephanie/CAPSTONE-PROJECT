@@ -44,4 +44,87 @@ The model type was a star schema because we had one dimension table linked to on
 ## Visualisations
 The report is made up of 2 pages which answers the 7 business questions
 ![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Global%20Superstore%20Dashboard%201.png)
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Global%20superstore%20Dashboard%202.png)
+
+### Features
+The 3 slicers are used to filter our report according to Country, Market, and Segment
+
+### Analysis:
+
+#### Sales analysis
+! [] ()
+Total profits made from sales equal 1.5 million
+Total sum of sales equals 12.6 million
+Number of orders made equal 51k
+Number of customers equals 795
+Number of product segments equals 3
+
+#### Country analysis
+! [] ()
+Number of countries equals 147
+
+#### Profit analysis by country in the year 2014
+! [] ()
+Top 3 countries which generated the most profit in 2014 include:
+ The United States which generated a profit of 93,403.98k
+ India  which generated a profit of 48,435.11k
+ China  which generated a profit of 46,646..30k
+ 
+#### Product profit analysis by country
+! [] ()
+
+The product with the highest profit in the United States include:
+
+Canon Image Class with a 25.2k profit
+Fellowes PB500 electric punch plastic comb 7.75k
+Hewlette Parkard Laser 6.98k
+
+The product with the highest profit in India include:
+
+Sharp wireless fax digital  with a 2.89k profit
+Hp copy machine color 2.86k
+Samsung smart phone 2.67k
+
+#### Analysis of the 3 subcategories with the highest average shipping cost in the United States.
+
+! [] ()
+
+The three sub categories include:
+Copiers with average shipping cost being 165.28k
+Machines with average shipping cost being 132.24k
+Tables with average shipping cost being 69.95k
+
+
+#### Analysis of the average profit of all African countries in 2014
+! [] ()
+The country with the highest average profit is South Africa with an average profit of 9,363.24k
+
+The country with the least average profit is Nigeria with an average profit of -23,285.19k
+
+#### Analysis of factors which might be responsible for Nigeria’s poor performance
+
+! [] () 
+Nigeria had an average shipping cost of 7k and an average discount of 1%
+
+#### Analysis of sub-categories in Southeast asian countries
+![] ()
+The least profitable sub-category are tables. 
+The country where Global superstore should stop selling this category is Indonesia
+
+#### Analysis of the least profitable city (in terms of average profit) in the United States
 ![]()
+
+The least profitable city in the United states is Lancaster with an average profit of -157.37k and a total of 46 orders
+
+#### Analysis of the  product subcategory with the highest average profit in Australia?
+
+! [] ()
+
+The most profitable sub-category are appliances with an average profit of 139.01K
+
+#### Analysis of the most valuable customers
+! [] ()
+
+There are 10 most valuable customers in order of average sales
+
+
