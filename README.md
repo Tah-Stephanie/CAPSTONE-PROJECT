@@ -89,7 +89,6 @@ Hp copy machine color 2.86k
 Samsung smart phone 2.67k
 
 #### Analysis of the 3 subcategories with the highest average shipping cost in the United States.
-![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Least%20profitable%20sub-category%20in%20the%20USA.png)
 
 The three sub categories include:
 Copiers with average shipping cost being 165.28k
@@ -119,8 +118,7 @@ The country where Global superstore should stop selling this category is Indones
 The least profitable city in the United states is Lancaster with an average profit of -157.37k and a total of 46 orders
 
 #### Analysis of the  product subcategory with the highest average profit in Australia?
-
-! [] ()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Least%20profitable%20sub-category%20in%20the%20USA.png)
 
 The most profitable sub-category are appliances with an average profit of 139.01K
 
