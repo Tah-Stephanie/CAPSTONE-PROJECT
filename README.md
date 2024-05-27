@@ -62,22 +62,19 @@ Number of customers equals 795
 Number of product segments equals 3
 
 #### Country analysis
-
 ![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Country%20Analysis.png)
 
 Number of countries equals 147
-
 #### Profit analysis by country in the year 2014
-
 ![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Profit%20analysis%20by%20country.png)
+
 Top 3 countries which generated the most profit in 2014 include:
  The United States which generated a profit of 93,403.98k
  India  which generated a profit of 48,435.11k
  China  which generated a profit of 46,646..30k
  
 #### Product profit analysis by country
-
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Product%20profit%20analysis.png)
 
 The product with the highest profit in the United States include:
 
