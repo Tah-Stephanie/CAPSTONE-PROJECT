@@ -34,9 +34,14 @@ Question 7. a)Who are the most valuable customers and what do they purchase?
 -Data Visualization
 
 ### Modelling
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Data%20Model%20Global%20superstore.png)
 The sourced dataset had 3 tables, all which were fact tables hence no direct relationship could be established between them.
 
 Using power query, a calendar table was created which was then directed linked to one of the fact table ‘Orders’.
 
 The model type was a star schema because we had one dimension table linked to one fact table. The 2 other fact tables did not have any active relationship and were also not useful for our analysis.
+
+## Visualisations
+The report is made up of 2 pages which answers the 7 business questions
+![]()
+![]()
