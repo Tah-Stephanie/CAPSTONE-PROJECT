@@ -52,7 +52,7 @@ The 3 slicers are used to filter our report according to Country, Market, and Se
 ### Analysis:
 
 #### Sales analysis
-! [] ()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Sales%20Analysis.png)
 Total profits made from sales equal 1.5 million
 Total sum of sales equals 12.6 million
 Number of orders made equal 51k
