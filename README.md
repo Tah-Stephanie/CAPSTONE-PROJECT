@@ -112,7 +112,8 @@ The country with the least average profit is Nigeria with an average profit of -
 Nigeria had an average shipping cost of 7k and an average discount of 1%
 
 #### Analysis of sub-categories in Southeast asian countries
-![] ()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Sub-category%20in%20South%20asian%20Countries.png
+)
 The least profitable sub-category are tables. 
 The country where Global superstore should stop selling this category is Indonesia
 
