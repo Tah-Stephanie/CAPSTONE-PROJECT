@@ -89,8 +89,7 @@ Hp copy machine color 2.86k
 Samsung smart phone 2.67k
 
 #### Analysis of the 3 subcategories with the highest average shipping cost in the United States.
-
-! [] ()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Least%20profitable%20sub-category%20in%20the%20USA.png)
 
 The three sub categories include:
 Copiers with average shipping cost being 165.28k
