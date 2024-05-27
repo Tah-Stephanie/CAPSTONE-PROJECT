@@ -43,5 +43,5 @@ The model type was a star schema because we had one dimension table linked to on
 
 ## Visualisations
 The report is made up of 2 pages which answers the 7 business questions
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Global%20Superstore%20Dashboard%201.png)
 ![]()
