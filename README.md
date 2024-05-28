@@ -3,7 +3,8 @@
 ![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Cover%20Page.png)
 
 ## Introduction
-This Power BI project is a Capstone project which aims at analysing data from an unknown store called “Global Superstore”. The project report answered all the business questions which will in turn help in drawing out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability. 
+This Power BI project is a Capstone project which aims at analysing data from an unknown store called “Global Superstore”. The project report answered all the business questions which will in turn help in drawing out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
+
 **_ Disclaimer_** The dataset used do not represent any company or country but just as imaginary data used to perform some analysis
 
 ### Problem statement
