@@ -127,7 +127,7 @@ The least profitable city in the United states is Lancaster with an average prof
 The most profitable sub-category are appliances with an average profit of 139.01K
 
 #### Analysis of the most valuable customers
-! [] ()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Most%20Valuable%20customers.png)
 
 There are 10 most valuable customers in order of average sales
 
