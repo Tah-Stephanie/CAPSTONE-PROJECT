@@ -132,3 +132,5 @@ The most profitable sub-category are appliances with an average profit of 139.01
 There are 10 most valuable customers in order of average sales
 
 
+
+
