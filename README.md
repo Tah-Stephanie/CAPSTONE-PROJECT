@@ -117,7 +117,7 @@ The least profitable sub-category are tables.
 The country where Global superstore should stop selling this category is Indonesia
 
 #### Analysis of the least profitable city (in terms of average profit) in the United States
-![]()
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Least%20profitablecity%20in%20the%20USA.png)
 
 The least profitable city in the United states is Lancaster with an average profit of -157.37k and a total of 46 orders
 
