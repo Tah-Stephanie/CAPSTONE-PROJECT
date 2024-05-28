@@ -106,8 +106,7 @@ The country with the highest average profit is South Africa with an average prof
 The country with the least average profit is Nigeria with an average profit of -23,285.19k
 
 #### Analysis of factors which might be responsible for Nigeria’s poor performance
-![](![image](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/assets/169058699/a95820bf-3c5e-4f42-9a4a-44fcb9d49c3c)
-)
+![](https://github.com/Tah-Stephanie/CAPSTONE-PROJECT/blob/main/Factors%20responsible%20for%20Nigeria's%20poor%20performance.png)
 
 Nigeria had an average shipping cost of 7k and an average discount of 1%
 
